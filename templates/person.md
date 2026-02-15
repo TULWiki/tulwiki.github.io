@@ -1,6 +1,6 @@
 # Main Alias
 
-| | |
+| Item | Details |
 |-|-|
 | Also Known As | |
 | Role | |
