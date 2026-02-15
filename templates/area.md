@@ -1,7 +1,7 @@
 # Area Name
 
-|  |  |
-| - | - |
+| | |
+|-|-|
 | Author(s) | |
 | Alternate Name(s) | |
 | Leading To | |
@@ -10,7 +10,7 @@
 
 #### Technical Info
 | | |
-| - | - |
+|-|-|
 | Area ID | |
 | Course Number | |
 | Internal Name | |
